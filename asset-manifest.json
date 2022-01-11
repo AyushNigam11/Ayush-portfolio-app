@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/resume-app/static/css/main.ba1c2ea0.css",
+    "main.js": "/resume-app/static/js/main.a9e69cb4.js",
+    "static/css/580.0d3f5581.chunk.css": "/resume-app/static/css/580.0d3f5581.chunk.css",
+    "static/js/580.052f02d2.chunk.js": "/resume-app/static/js/580.052f02d2.chunk.js",
+    "static/css/59.1a5a64f5.chunk.css": "/resume-app/static/css/59.1a5a64f5.chunk.css",
+    "static/js/59.5f15b91e.chunk.js": "/resume-app/static/js/59.5f15b91e.chunk.js",
+    "static/media/girl.png": "/resume-app/static/media/girl.d21aba1f2c62ea112e2e.png",
+    "static/media/stanfordLogo.png": "/resume-app/static/media/stanfordLogo.5a8e3a0a00949c93a9b8.png",
+    "static/media/harvardLogo.png": "/resume-app/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
+    "static/media/Montserrat-Regular.ttf": "/resume-app/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/space.png": "/resume-app/static/media/space.a889eb1c6e32c52e55d3.png",
+    "static/media/Agustina.woff": "/resume-app/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/spotify.png": "/resume-app/static/media/spotify.e370e39c3174170e9236.png",
+    "static/media/manOnTable.svg": "/resume-app/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/resume-app/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/resume-app/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/resume-app/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/codeInLogo.webp": "/resume-app/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/resume-app/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/resume-app/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/saayaHealthLogo.webp": "/resume-app/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/resume-app/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/resume-app/index.html",
+    "static/media/talksCardBack.svg": "/resume-app/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.ba1c2ea0.css.map": "/resume-app/static/css/main.ba1c2ea0.css.map",
+    "main.a9e69cb4.js.map": "/resume-app/static/js/main.a9e69cb4.js.map",
+    "580.0d3f5581.chunk.css.map": "/resume-app/static/css/580.0d3f5581.chunk.css.map",
+    "580.052f02d2.chunk.js.map": "/resume-app/static/js/580.052f02d2.chunk.js.map",
+    "59.1a5a64f5.chunk.css.map": "/resume-app/static/css/59.1a5a64f5.chunk.css.map",
+    "59.5f15b91e.chunk.js.map": "/resume-app/static/js/59.5f15b91e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba1c2ea0.css",
+    "static/js/main.a9e69cb4.js"
+  ]
+}
